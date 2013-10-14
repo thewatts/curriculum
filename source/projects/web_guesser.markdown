@@ -64,10 +64,8 @@ And save it in SublimeText
 * See output like this:
 
 ```plain
-INFO  WEBrick 1.3.1
-INFO  ruby 1.9.3 (2013-02-22) [x86_64-darwin12.3.0]
-== Sinatra/1.3.6 has taken the stage on 4567 for development with backup from WEBrick
-INFO  WEBrick::HTTPServer#start: pid=3616 port=4567
+== Sinatra/1.4.3 has taken the stage on 4567 for development with backup from
+Thin
 ```
 
 That says that the server started listening on port `4567`.
